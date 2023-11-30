@@ -18,8 +18,8 @@ dendroprovenance_combined <- mergeDbSources(dendroprovenance_combined_wos, dendr
 dendroprovenance_combined <- dendroprovenance_combined[!duplicated(dendroprovenance_combined$SR, fromLast = TRUE),]
 
 # exporting for easy loading
-saveRDS(dendroprovenance_combined, "export/dendroprovance_lit.rds")
-dendroprovenance_combined <- readRDS("export/dendroprovance_lit.rds")
+saveRDS(dendroprovenance_combined, "data/dendroprovance_lit.rds")
+dendroprovenance_combined <- readRDS("data/dendroprovance_lit.rds")
 
 
 # combined keywords dendroprovenance or dendroprovenancing or dendro-provenance or (dendrochronology and provenance) or (wood and provenance and (archaeology or heritage or painting or building)) or (tree-ring and provenance and (archaeology or heritage or painting or building)) 
