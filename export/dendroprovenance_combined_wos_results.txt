@@ -1,0 +1,149 @@
+
+
+MAIN INFORMATION ABOUT DATA
+
+ Timespan                              2013 : 2023 
+ Sources (Journals, Books, etc)        85 
+ Documents                             166 
+ Annual Growth Rate %                  14.87 
+ Document Average Age                  3.79 
+ Average citations per doc             9.036 
+ Average citations per year per doc    1.691 
+ References                            8081 
+ 
+DOCUMENT TYPES                     
+ article                         156 
+ article; early access           1 
+ article; proceedings paper      2 
+ correction                      1 
+ editorial material              1 
+ review                          5 
+ 
+DOCUMENT CONTENTS
+ Keywords Plus (ID)                    573 
+ Author's Keywords (DE)                660 
+ 
+AUTHORS
+ Authors                               628 
+ Author Appearances                    764 
+ Authors of single-authored docs       17 
+ 
+AUTHORS COLLABORATION
+ Single-authored docs                  19 
+ Documents per Author                  0.264 
+ Co-Authors per Doc                    4.6 
+ International co-authorships %        44.58 
+ 
+
+Annual Scientific Production
+
+ Year    Articles
+    2013        3
+    2014       10
+    2015        5
+    2016       14
+    2017       13
+    2018       13
+    2019       18
+    2020       23
+    2021       32
+    2022       23
+    2023       12
+
+Annual Percentage Growth Rate 14.87 
+
+
+Most Productive Authors
+
+       Authors        Articles     Authors        Articles Fractionalized
+1  BERNABEI M                9 BERNABEI M                            3.32
+2  DALY A                    9 DALY A                                3.26
+3  DOMÍNGUEZ-DELMÁS M        9 DOMÍNGUEZ-DELMÁS M                    2.76
+4  HANECA K                  7 JANSMA E                              2.25
+5  WAZNY T                   6 HANECA K                              2.18
+6  JANSMA E                  5 VISSER RM                             2.17
+7  MACCHIONI N               5 GUT U                                 2.00
+8  SASS-KLAASSEN U           5 BOSWIJK G                             1.70
+9  AKHMETZYANOV L            4 WAZNY T                               1.25
+10 BONTADI J                 4 BILLAMBOZ A                           1.17
+
+
+Top manuscripts per citations
+
+                                Paper                                   DOI TC TCperYear  NTC
+1  SÁNCHEZ-SALGUERO R, 2013, FOREST ECOL MANAG 10.1016/j.foreco.2013.09.050 87      7.91 2.33
+2  HACKET-PAIN AJ, 2016, EUR J FOREST RES      10.1007/s10342-016-0982-7    83     10.38 3.75
+3  MONTWÉ D, 2018, NAT COMMUN                  10.1038/s41467-018-04039-5   68     11.33 4.23
+4  EILMANN B, 2014, TREE PHYSIOL               10.1093/treephys/tpu069      57      5.70 3.02
+5  TRUJILLO-MOYA C, 2018, G3-GENES GENOM GENET 10.1534/g3.117.300524        48      8.00 2.99
+6  PONOCNÁ T, 2016, TREES-STRUCT FUNCT         10.1007/s00468-016-1396-3    42      5.25 1.90
+7  BERANEK LP, 2016, LITHOSPHERE-US            10.1130/L557.1               41      5.12 1.85
+8  VIZCAÍNO-PALOMAR N, 2016, ECOL EVOL         10.1002/ece3.2153            37      4.62 1.67
+9  KLISZ M, 2019, FRONT PLANT SCI              10.3389/fpls.2019.00306      31      6.20 4.36
+10 DOMÍNGUEZ-DELMÁS M, 2020, DENDROCHRONOLOGIA 10.1016/j.dendro.2020.125731 27      6.75 3.86
+
+
+Corresponding Author's Countries
+
+          Country Articles   Freq SCP MCP MCP_Ratio
+1  USA                  18 0.1098  11   7     0.389
+2  ITALY                17 0.1037  13   4     0.235
+3  NETHERLANDS          17 0.1037   8   9     0.529
+4  SPAIN                13 0.0793   7   6     0.462
+5  GERMANY              10 0.0610   6   4     0.400
+6  UNITED KINGDOM       10 0.0610   6   4     0.400
+7  CANADA                9 0.0549   4   5     0.556
+8  BELGIUM               6 0.0366   1   5     0.833
+9  CZECH REPUBLIC        6 0.0366   3   3     0.500
+10 FRANCE                6 0.0366   4   2     0.333
+
+
+SCP: Single Country Publications
+
+MCP: Multiple Country Publications
+
+
+Total Citations per Country
+
+     Country      Total Citations Average Article Citations
+1  NETHERLANDS                219                     12.88
+2  SPAIN                      217                     16.69
+3  UNITED KINGDOM             137                     13.70
+4  CANADA                     135                     15.00
+5  ITALY                      122                      7.18
+6  USA                        105                      5.83
+7  BELGIUM                     71                     11.83
+8  AUSTRIA                     62                     20.67
+9  GERMANY                     55                      5.50
+10 CZECH REPUBLIC              50                      8.33
+
+
+Most Relevant Sources
+
+                                    Sources        Articles
+1  DENDROCHRONOLOGIA                                     20
+2  JOURNAL OF ARCHAEOLOGICAL SCIENCE                     13
+3  JOURNAL OF CULTURAL HERITAGE                          10
+4  JOURNAL OF ARCHAEOLOGICAL SCIENCE-REPORTS              7
+5  INTERNATIONAL JOURNAL OF NAUTICAL ARCHAEOLOGY          6
+6  ARCHAEOMETRY                                           5
+7  FORESTS                                                5
+8  TREE-RING RESEARCH                                     4
+9  ENVIRONMENTAL ARCHAEOLOGY                              3
+10 INTERNATIONAL JOURNAL OF ARCHITECTURAL HERITAGE        3
+
+
+Most Relevant Keywords
+
+   Author Keywords (DE)      Articles Keywords-Plus (ID)     Articles
+1         DENDROCHRONOLOGY         47       DENDROCHRONOLOGY       16
+2         DENDROPROVENANCING       15       WOOD                   16
+3         PROVENANCE               13       GROWTH                 14
+4         DENDROPROVENANCE         12       CLIMATE-CHANGE         13
+5         DENDROARCHAEOLOGY        10       SHIP                   13
+6         TREE RINGS               10       TIMBER                 13
+7         WOOD ANATOMY              9       TREE-RINGS             12
+8         CLIMATE CHANGE            7       CLIMATE                11
+9         DATING                    7       DROUGHT                11
+10        ARCHAEOLOGY               6       VARIABILITY            11
+
