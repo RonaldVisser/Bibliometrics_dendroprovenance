@@ -3,99 +3,99 @@
 MAIN INFORMATION ABOUT DATA
 
  Timespan                              2013 : 2023 
- Sources (Journals, Books, etc)        85 
- Documents                             166 
- Annual Growth Rate %                  14.87 
- Document Average Age                  3.79 
- Average citations per doc             9.036 
- Average citations per year per doc    1.691 
- References                            8081 
+ Sources (Journals, Books, etc)        31 
+ Documents                             83 
+ Annual Growth Rate %                  17.46 
+ Document Average Age                  4.01 
+ Average citations per doc             7.651 
+ Average citations per year per doc    1.454 
+ References                            3479 
  
 DOCUMENT TYPES                     
- article                         156 
+ article                         76 
  article; early access           1 
  article; proceedings paper      2 
  correction                      1 
  editorial material              1 
- review                          5 
+ review                          2 
  
 DOCUMENT CONTENTS
- Keywords Plus (ID)                    573 
- Author's Keywords (DE)                660 
+ Keywords Plus (ID)                    219 
+ Author's Keywords (DE)                317 
  
 AUTHORS
- Authors                               628 
- Author Appearances                    764 
- Authors of single-authored docs       17 
+ Authors                               298 
+ Author Appearances                    408 
+ Authors of single-authored docs       10 
  
 AUTHORS COLLABORATION
- Single-authored docs                  19 
- Documents per Author                  0.264 
- Co-Authors per Doc                    4.6 
- International co-authorships %        44.58 
+ Single-authored docs                  12 
+ Documents per Author                  0.279 
+ Co-Authors per Doc                    4.92 
+ International co-authorships %        53.01 
  
 
 Annual Scientific Production
 
  Year    Articles
-    2013        3
-    2014       10
-    2015        5
-    2016       14
-    2017       13
-    2018       13
-    2019       18
-    2020       23
-    2021       32
-    2022       23
-    2023       12
+    2013        2
+    2014        8
+    2015        4
+    2016        5
+    2017        6
+    2018        7
+    2019        8
+    2020       12
+    2021       14
+    2022        7
+    2023       10
 
-Annual Percentage Growth Rate 14.87 
+Annual Percentage Growth Rate 17.46 
 
 
 Most Productive Authors
 
        Authors        Articles     Authors        Articles Fractionalized
-1  BERNABEI M                9 BERNABEI M                            3.32
-2  DALY A                    9 DALY A                                3.26
-3  DOMÍNGUEZ-DELMÁS M        9 DOMÍNGUEZ-DELMÁS M                    2.76
-4  HANECA K                  7 JANSMA E                              2.25
-5  WAZNY T                   6 HANECA K                              2.18
-6  JANSMA E                  5 VISSER RM                             2.17
-7  MACCHIONI N               5 GUT U                                 2.00
-8  SASS-KLAASSEN U           5 BOSWIJK G                             1.70
-9  AKHMETZYANOV L            4 WAZNY T                               1.25
-10 BONTADI J                 4 BILLAMBOZ A                           1.17
+1  DOMÍNGUEZ-DELMÁS M       10 BERNABEI M                            3.32
+2  BERNABEI M                9 DALY A                                3.01
+3  DALY A                    8 DOMÍNGUEZ-DELMÁS M                    2.96
+4  WAZNY T                   8 JANSMA E                              2.35
+5  HANECA K                  7 HANECA K                              2.18
+6  JANSMA E                  6 GUT U                                 2.03
+7  AKHMETZYANOV L            4 VISSER RM                             2.00
+8  BONTADI J                 4 WAZNY T                               1.54
+9  GARCÍA-GONZÁLEZ I         4 BILLAMBOZ A                           1.17
+10 NAYLING N                 4 BONTADI J                             1.12
 
 
 Top manuscripts per citations
 
-                                Paper                                   DOI TC TCperYear  NTC
-1  SÁNCHEZ-SALGUERO R, 2013, FOREST ECOL MANAG 10.1016/j.foreco.2013.09.050 87      7.91 2.33
-2  HACKET-PAIN AJ, 2016, EUR J FOREST RES      10.1007/s10342-016-0982-7    83     10.38 3.75
-3  MONTWÉ D, 2018, NAT COMMUN                  10.1038/s41467-018-04039-5   68     11.33 4.23
-4  EILMANN B, 2014, TREE PHYSIOL               10.1093/treephys/tpu069      57      5.70 3.02
-5  TRUJILLO-MOYA C, 2018, G3-GENES GENOM GENET 10.1534/g3.117.300524        48      8.00 2.99
-6  PONOCNÁ T, 2016, TREES-STRUCT FUNCT         10.1007/s00468-016-1396-3    42      5.25 1.90
-7  BERANEK LP, 2016, LITHOSPHERE-US            10.1130/L557.1               41      5.12 1.85
-8  VIZCAÍNO-PALOMAR N, 2016, ECOL EVOL         10.1002/ece3.2153            37      4.62 1.67
-9  KLISZ M, 2019, FRONT PLANT SCI              10.3389/fpls.2019.00306      31      6.20 4.36
-10 DOMÍNGUEZ-DELMÁS M, 2020, DENDROCHRONOLOGIA 10.1016/j.dendro.2020.125731 27      6.75 3.86
+                                  Paper                                       DOI TC TCperYear  NTC
+1  DOMÍNGUEZ-DELMÁS M, 2013, INT J NAUT ARCHAEOL 10.1111/j.1095-9270.2012.00361.x 32      2.91 1.33
+2  WAZNY T, 2014, RADIOCARBON                    10.2458/azu_rc.56.18335          27      2.70 1.76
+3  DOMÍNGUEZ-DELMÁS M, 2020, DENDROCHRONOLOGIA   10.1016/j.dendro.2020.125731     27      6.75 3.24
+4  DOMÍNGUEZ-DELMÁS M, 2018, J ARCHAEOL SCI      10.1016/j.jas.2018.05.002        23      3.83 2.48
+5  DOMÍNGUEZ-DELMÁS M, 2014, J ARCHAEOL SCI      10.1016/j.jas.2013.09.009        21      2.10 1.37
+6  HANECA K, 2014, INT J NAUT ARCHAEOL           10.1111/1095-9270.12037          20      2.00 1.30
+7  BINDA G, 2021, SCI TOTAL ENVIRON              10.1016/j.scitotenv.2020.143672  20      6.67 4.18
+8  VAN LANEN RJ, 2016, J ARCHAEOL SCI            10.1016/j.jas.2016.07.010        19      2.38 1.76
+9  RICH S, 2016, ARCHAEOL ANTHROP SCI            10.1007/s12520-015-0242-7        19      2.38 1.76
+10 NAYLING N, 2014, INT J NAUT ARCHAEOL          10.1111/1095-9270.12052          16      1.60 1.04
 
 
 Corresponding Author's Countries
 
           Country Articles   Freq SCP MCP MCP_Ratio
-1  USA                  18 0.1098  11   7     0.389
-2  ITALY                17 0.1037  13   4     0.235
-3  NETHERLANDS          17 0.1037   8   9     0.529
-4  SPAIN                13 0.0793   7   6     0.462
-5  GERMANY              10 0.0610   6   4     0.400
-6  UNITED KINGDOM       10 0.0610   6   4     0.400
-7  CANADA                9 0.0549   4   5     0.556
-8  BELGIUM               6 0.0366   1   5     0.833
-9  CZECH REPUBLIC        6 0.0366   3   3     0.500
-10 FRANCE                6 0.0366   4   2     0.333
+1  NETHERLANDS          16 0.1951   8   8     0.500
+2  ITALY                10 0.1220   8   2     0.200
+3  USA                   9 0.1098   5   4     0.444
+4  UNITED KINGDOM        6 0.0732   2   4     0.667
+5  SPAIN                 5 0.0610   1   4     0.800
+6  SWITZERLAND           5 0.0610   2   3     0.600
+7  BELGIUM               4 0.0488   1   3     0.750
+8  GERMANY               4 0.0488   2   2     0.500
+9  DENMARK               3 0.0366   1   2     0.667
+10 AUSTRIA               2 0.0244   2   0     0.000
 
 
 SCP: Single Country Publications
@@ -106,44 +106,44 @@ MCP: Multiple Country Publications
 Total Citations per Country
 
      Country      Total Citations Average Article Citations
-1  NETHERLANDS                219                     12.88
-2  SPAIN                      217                     16.69
-3  UNITED KINGDOM             137                     13.70
-4  CANADA                     135                     15.00
-5  ITALY                      122                      7.18
-6  USA                        105                      5.83
-7  BELGIUM                     71                     11.83
-8  AUSTRIA                     62                     20.67
-9  GERMANY                     55                      5.50
-10 CZECH REPUBLIC              50                      8.33
+1  NETHERLANDS                190                     11.88
+2  SPAIN                       63                     12.60
+3  USA                         61                      6.78
+4  ITALY                       57                      5.70
+5  BELGIUM                     51                     12.75
+6  SWITZERLAND                 51                     10.20
+7  DENMARK                     27                      9.00
+8  SLOVENIA                    20                     10.00
+9  UNITED KINGDOM              20                      3.33
+10 AUSTRIA                     17                      8.50
 
 
 Most Relevant Sources
 
                                     Sources        Articles
-1  DENDROCHRONOLOGIA                                     20
-2  JOURNAL OF ARCHAEOLOGICAL SCIENCE                     13
-3  JOURNAL OF CULTURAL HERITAGE                          10
-4  JOURNAL OF ARCHAEOLOGICAL SCIENCE-REPORTS              7
-5  INTERNATIONAL JOURNAL OF NAUTICAL ARCHAEOLOGY          6
-6  ARCHAEOMETRY                                           5
-7  FORESTS                                                5
-8  TREE-RING RESEARCH                                     4
-9  ENVIRONMENTAL ARCHAEOLOGY                              3
-10 INTERNATIONAL JOURNAL OF ARCHITECTURAL HERITAGE        3
+1  DENDROCHRONOLOGIA                                     18
+2  JOURNAL OF ARCHAEOLOGICAL SCIENCE                      9
+3  INTERNATIONAL JOURNAL OF NAUTICAL ARCHAEOLOGY          8
+4  JOURNAL OF CULTURAL HERITAGE                           7
+5  JOURNAL OF ARCHAEOLOGICAL SCIENCE-REPORTS              4
+6  TREE-RING RESEARCH                                     4
+7  ARCHAEOMETRY                                           3
+8  INTERNATIONAL JOURNAL OF ARCHITECTURAL HERITAGE        3
+9  HERITAGE SCIENCE                                       2
+10 PLOS ONE                                               2
 
 
 Most Relevant Keywords
 
    Author Keywords (DE)      Articles Keywords-Plus (ID)     Articles
-1         DENDROCHRONOLOGY         47       DENDROCHRONOLOGY       16
-2         DENDROPROVENANCING       15       WOOD                   16
-3         PROVENANCE               13       GROWTH                 14
-4         DENDROPROVENANCE         12       CLIMATE-CHANGE         13
-5         DENDROARCHAEOLOGY        10       SHIP                   13
-6         TREE RINGS               10       TIMBER                 13
-7         WOOD ANATOMY              9       TREE-RINGS             12
-8         CLIMATE CHANGE            7       CLIMATE                11
-9         DATING                    7       DROUGHT                11
-10        ARCHAEOLOGY               6       VARIABILITY            11
+1         DENDROCHRONOLOGY         35       DENDROCHRONOLOGY       15
+2         DENDROPROVENANCING       15       WOOD                   13
+3         DENDROPROVENANCE         12       SHIP                   12
+4         DENDROARCHAEOLOGY         7       TREE-RINGS             12
+5         OAK                       7       TIMBER                 11
+6         ARCHAEOLOGY               6       OAK                     9
+7         TREE RINGS                6       CHACO CANYON            8
+8         DATING                    5       CLIMATE                 7
+9         PROVENANCE                5       CHRONOLOGY              6
+10        TREE-RINGS                5       GROWTH                  6
 

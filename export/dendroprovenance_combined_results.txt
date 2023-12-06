@@ -2,123 +2,114 @@
 
 MAIN INFORMATION ABOUT DATA
 
- Timespan                              1988 : 2023 
- Sources (Journals, Books, etc)        148 
- Documents                             300 
- Annual Growth Rate %                  8.94 
- Document Average Age                  6.31 
- Average citations per doc             12.94 
- Average citations per year per doc    1.675 
- References                            14507 
+ Timespan                              1989 : 2023 
+ Sources (Journals, Books, etc)        45 
+ Documents                             124 
+ Annual Growth Rate %                  7.31 
+ Document Average Age                  6.35 
+ Average citations per doc             12.56 
+ Average citations per year per doc    1.544 
+ References                            5502 
  
 DOCUMENT TYPES                     
- article                         271 
+ article                         107 
  article; early access           1 
  article; proceedings paper      2 
  book                            3 
- book chapter                    7 
- conference paper                2 
+ book chapter                    4 
  editorial material              1 
  erratum                         1 
- review                          12 
+ review                          5 
  
 DOCUMENT CONTENTS
- Keywords Plus (ID)                    1498 
- Author's Keywords (DE)                962 
+ Keywords Plus (ID)                    451 
+ Author's Keywords (DE)                390 
  
 AUTHORS
- Authors                               941 
- Author Appearances                    1287 
- Authors of single-authored docs       42 
+ Authors                               343 
+ Author Appearances                    525 
+ Authors of single-authored docs       20 
  
 AUTHORS COLLABORATION
- Single-authored docs                  49 
- Documents per Author                  0.319 
- Co-Authors per Doc                    4.29 
- International co-authorships %        23.33 
+ Single-authored docs                  24 
+ Documents per Author                  0.362 
+ Co-Authors per Doc                    4.23 
+ International co-authorships %        33.06 
  
 
 Annual Scientific Production
 
  Year    Articles
-    1988        1
     1989        1
-    1992        1
     1993        1
     1995        1
-    1997        1
-    1998        1
-    1999        1
     2000        1
-    2001        1
-    2002        3
-    2004        2
-    2005        3
-    2006        2
-    2007        7
-    2008        5
-    2009        4
-    2010        8
-    2011        5
-    2012        6
-    2013        9
-    2014       12
-    2015        6
-    2016       24
-    2017       22
-    2018       17
-    2019       30
-    2020       29
-    2021       40
-    2022       36
-    2023       20
+    2002        2
+    2005        1
+    2007        3
+    2008        2
+    2009        2
+    2010        2
+    2011        1
+    2012        4
+    2013        2
+    2014       11
+    2015        4
+    2016       10
+    2017        6
+    2018        9
+    2019       10
+    2020       13
+    2021       17
+    2022       10
+    2023       11
 
-Annual Percentage Growth Rate 8.94 
+Annual Percentage Growth Rate 7.31 
 
 
 Most Productive Authors
 
        Authors        Articles     Authors        Articles Fractionalized
-1  BERNABEI M               15 BERNABEI M                            6.32
-2  DALY A                   13 DALY A                                5.76
-3  DOMÍNGUEZ-DELMÁS M       10 VISSER R                              3.17
-4  HANECA K                  9 BRIDGE M                              3.03
-5  WAZNY T                   8 HANECA K                              2.93
-6  BONTADI J                 7 DOMÍNGUEZ-DELMÁS M                    2.88
-7  MACCHIONI N               7 WAZNY T                               2.50
-8  SASS-KLAASSEN U           7 BONTADI J                             2.45
-9  BÜNTGEN U                 6 JANSMA E                              2.25
-10 GRABNER M                 6 BOSWIJK G                             2.20
+1  DALY A                   12 DALY A                                5.26
+2  BERNABEI M               11 BERNABEI M                            3.98
+3  DOMÍNGUEZ-DELMÁS M       11 VISSER R                              3.17
+4  HANECA K                 10 DOMÍNGUEZ-DELMÁS M                    3.08
+5  WAZNY T                  10 HANECA K                              3.01
+6  JANSMA E                  6 WAZNY T                               2.79
+7  NAYLING N                 6 BRIDGE M                              2.70
+8  RICH S                    6 JANSMA E                              2.35
+9  MANNING S                 5 GUT U                                 2.03
+10 SASS-KLAASSEN U           5 NAYLING N                             1.73
 
 
 Top manuscripts per citations
 
-                                Paper                                     DOI TC TCperYear  NTC
-1  DE LUIS M, 2013, PLOS ONE                   10.1371/journal.pone.0083550   97      8.82 2.43
-2  BELHAJJAME K, 2015, J WEB SEMANT            10.1016/j.websem.2015.01.003   97     10.78 4.28
-3  POPESCU C-M, 2009, APPL SURF SCI            10.1016/j.apsusc.2009.08.087   97      6.47 2.47
-4  HANECA K, 2005, J ARCHAEOL SCI              10.1016/j.jas.2004.09.005      93      4.89 2.10
-5  SÁNCHEZ-SALGUERO R, 2013, FOREST ECOL MANAG 10.1016/j.foreco.2013.09.050   87      7.91 2.18
-6  SÁNCHEZ-SALGUERO R, 2013, FOR ECOL MANAGE   10.1016/j.foreco.2013.09.050   85      7.73 2.13
-7  HACKET-PAIN AJ, 2016, EUR J FOREST RES      10.1007/s10342-016-0982-7      83     10.38 5.09
-8  BRISCHKE C, 2008, BUILD ENVIRON             10.1016/j.buildenv.2007.10.002 80      5.00 1.94
-9  KELLY PM, 2002, HOLOCENE                    10.1191/0959683602hl582rp      72      3.27 1.53
-10 BRIDGE M, 2012, J ARCHAEOL SCI              10.1016/j.jas.2012.04.028      69      5.75 2.33
+                                  Paper                                         DOI  TC TCperYear  NTC
+1  HANECA K, 2009, J ARCHAEOL SCI                10.1016/j.jas.2008.07.005          194     12.93 1.72
+2  HANECA K, 2005, J ARCHAEOL SCI                10.1016/j.jas.2004.09.005           93      4.89 1.00
+3  BRIDGE M, 2012, J ARCHAEOL SCI                10.1016/j.jas.2012.04.028           69      5.75 2.28
+4  WAZNY T, 2002, DENDROCHRONOLOGIA              10.1078/1125-7865-00024             53      2.41 1.54
+5  KAGAWA A, 2010, J WOOD SCI                    10.1007/s10086-009-1085-6           51      3.64 1.65
+6  HILLAM J, 1995, ARCHAEOMETRY                  10.1111/j.1475-4754.1995.tb00752.x  43      1.48 1.00
+7  DALY A, 2008, INT J NAUTICAL ARCHAEOL         10.1111/j.1095-9270.2007.00157.x    40      2.50 1.13
+8  ČUFAR K, 2007, TREE-RING RES                  10.3959/1536-1098-63.1.47           40      2.35 1.32
+9  DOMÍNGUEZ-DELMÁS M, 2013, INT J NAUT ARCHAEOL 10.1111/j.1095-9270.2012.00361.x    32      2.91 1.33
+10 DALY A, 2007, INT J NAUTICAL ARCHAEOL         10.1111/j.1095-9270.2006.00103.x    32      1.88 1.05
 
 
 Corresponding Author's Countries
 
-          Country Articles  Freq SCP MCP MCP_Ratio
-1  ITALY                26 0.104  22   4     0.154
-2  USA                  22 0.088  15   7     0.318
-3  GERMANY              20 0.080  16   4     0.200
-4  NETHERLANDS          19 0.076  11   8     0.421
-5  UNITED KINGDOM       18 0.072  14   4     0.222
-6  SPAIN                16 0.064  10   6     0.375
-7  CANADA               12 0.048   7   5     0.417
-8  BELGIUM              10 0.040   5   5     0.500
-9  FRANCE               10 0.040   8   2     0.200
-10 CHINA                 9 0.036   8   1     0.111
+          Country Articles   Freq SCP MCP MCP_Ratio
+1  NETHERLANDS          18 0.1748  11   7     0.389
+2  ITALY                10 0.0971   8   2     0.200
+3  BELGIUM               9 0.0874   6   3     0.333
+4  UNITED KINGDOM        9 0.0874   5   4     0.444
+5  USA                   9 0.0874   5   4     0.444
+6  GERMANY               6 0.0583   4   2     0.333
+7  SPAIN                 5 0.0485   1   4     0.800
+8  SWITZERLAND           5 0.0485   2   3     0.600
+9  DENMARK               4 0.0388   2   2     0.500
+10 CZECH REPUBLIC        3 0.0291   3   0     0.000
 
 
 SCP: Single Country Publications
@@ -129,44 +120,44 @@ MCP: Multiple Country Publications
 Total Citations per Country
 
      Country      Total Citations Average Article Citations
-1  UNITED KINGDOM             398                     22.11
-2  SPAIN                      319                     19.94
-3  ITALY                      285                     10.96
-4  GERMANY                    277                     13.85
-5  FRANCE                     256                     25.60
-6  NETHERLANDS                250                     13.16
-7  CANADA                     223                     18.58
-8  BELGIUM                    219                     21.90
-9  USA                        154                      7.00
-10 POLAND                     112                     14.00
+1  BELGIUM                    403                     44.78
+2  NETHERLANDS                221                     12.28
+3  UNITED KINGDOM             125                     13.89
+4  SPAIN                       63                     12.60
+5  ITALY                       62                      6.20
+6  USA                         61                      6.78
+7  POLAND                      59                     19.67
+8  JAPAN                       51                     51.00
+9  SWITZERLAND                 51                     10.20
+10 DENMARK                     37                      9.25
 
 
 Most Relevant Sources
 
-                                  Sources        Articles
-1  DENDROCHRONOLOGIA                                   30
-2  JOURNAL OF ARCHAEOLOGICAL SCIENCE                   20
-3  JOURNAL OF CULTURAL HERITAGE                        16
-4  INTERNATIONAL JOURNAL OF NAUTICAL ARCHAEOLOGY       12
-5  FOREST ECOLOGY AND MANAGEMENT                        8
-6  ARCHAEOMETRY                                         7
-7  JOURNAL OF ARCHAEOLOGICAL SCIENCE-REPORTS            7
-8  PLOS ONE                                             6
-9  TREE-RING RESEARCH                                   6
-10 FORESTS                                              5
+                                    Sources        Articles
+1  DENDROCHRONOLOGIA                                     23
+2  JOURNAL OF ARCHAEOLOGICAL SCIENCE                     15
+3  INTERNATIONAL JOURNAL OF NAUTICAL ARCHAEOLOGY         12
+4  JOURNAL OF CULTURAL HERITAGE                           9
+5  TREE-RING RESEARCH                                     5
+6  ARCHAEOMETRY                                           4
+7  JOURNAL OF ARCHAEOLOGICAL SCIENCE-REPORTS              4
+8  INTERNATIONAL JOURNAL OF ARCHITECTURAL HERITAGE        3
+9  ANTIQUITY                                              2
+10 ARCHAEOLOGICAL AND ANTHROPOLOGICAL SCIENCES            2
 
 
 Most Relevant Keywords
 
    Author Keywords (DE)      Articles Keywords-Plus (ID)     Articles
-1         DENDROCHRONOLOGY         83       DENDROCHRONOLOGY       65
-2         DENDROPROVENANCING       27       WOOD                   47
-3         PROVENANCE               25       PROVENANCE             43
-4         DENDROPROVENANCE         15       TIMBER                 24
-5         CLIMATE CHANGE           14       TREE RING              24
-6         TREE RINGS               14       GROWTH                 23
-7         DENDROARCHAEOLOGY        13       FORESTRY               17
-8         WOOD ANATOMY             11       CLIMATE CHANGE         15
-9         DATING                   10       DROUGHT                15
-10        DRIFTWOOD                 9       EUROPE                 15
+1         DENDROCHRONOLOGY         56       DENDROCHRONOLOGY       38
+2         DENDROPROVENANCING       27       WOOD                   22
+3         DENDROPROVENANCE         15       TIMBER                 19
+4         OAK                      10       PROVENANCE             14
+5         ARCHAEOLOGY               9       TREE RING              13
+6         DENDROARCHAEOLOGY         8       SHIP                   11
+7         PROVENANCE                8       TREE-RINGS             11
+8         TIMBER TRADE              8       ARCHAEOLOGY            10
+9         DATING                    7       RECONSTRUCTION         10
+10        TREE-RINGS                7       CHRONOLOGY              8
 
