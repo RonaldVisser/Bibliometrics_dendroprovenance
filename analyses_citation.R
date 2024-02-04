@@ -41,6 +41,11 @@ summary(dendroprovenance_combined_scopus_results, k=10, pause=F, width=130)
 sink(file = NULL)
 plot(x=dendroprovenance_combined_scopus_results, k=10, pause=F)
 
+# keywords related to the Roman period and Compared to medieval
+sum(stringr::str_detect(dendroprovance_lit$DE, "ROMAN|ROMAN ARCHAEOLOGY|ROMAN PERIOD"), na.rm = TRUE)
+dendroprovance_lit$AU[stringr::str_detect(dendroprovance_lit$DE, "ROMAN|ROMAN ARCHAEOLOGY|ROMAN PERIOD")]
+sum(stringr::str_detect(dendroprovance_lit$DE, "MIDDLE AGES|MEDIEVAL|MODERN|BALTIC"), na.rm = TRUE)
+
 
 # combined keywords dendroprovenance or dendroprovenancing or dendro-provenance or (dendrochronology and provenance) or (wood and provenance and (archaeology or heritage or painting or building)) or (tree-ring and provenance and (archaeology or heritage or painting or building)) 
 dendroprovenance_combined_wos_results <- biblioAnalysis(dendroprovenance_combined_wos)
