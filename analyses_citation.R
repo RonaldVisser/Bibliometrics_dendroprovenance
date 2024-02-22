@@ -12,7 +12,6 @@ library(tidyr)
 # combining searches in scopus search in article title, abstract and keywords
 # (dendroprovenance) OR (dendroprovenancing) OR (dendro-provenance) OR (dendro-provenancing) OR (tree-ring AND provenance AND archaeology) OR (tree-ring AND provenancing AND archaeology) OR (dendrochronology AND provenance AND archaeology) OR (dendrochronology AND provenancing and archaeology) OR (tree-ring AND provenance and painting) OR (dendrochronology AND provenance AND painting) OR (dendrochronology AND provenancing and painting) OR (tree-ring AND provenance AND heritage)  OR (dendrochronology AND provenance AND heritage) OR (dendrochronology AND provenancing AND heritage)
 
-
 #dendroprovenance_combined_scopus <- convert2df(file="data/scopus_combined_words.bib", dbsource="scopus",format="bibtex")
 dendroprovenance_combined_scopus <- convert2df(file="data/scopus_combined_words.csv", dbsource="scopus",format="csv")
 dendroprovenance_combined_wos <- convert2df(file="data/wos_combined_words.ciw", dbsource="wos",format="endnote")
