@@ -236,8 +236,9 @@ net_edu_collab_50 <- networkPlot(NetMatrix,  n = 50, Title = "Edu collaboration"
 #reticulate::conda_install('r-reticulate', 'plotly', channel = 'plotly')
 reticulate::use_miniconda('r-reticulate')
 
+threeFieldsPlot(dendroprovenance_combined, fields = c("DE", "AU", "AU_CO"))
 fig <- threeFieldsPlot(dendroprovenance_combined, fields = c("DE", "AU", "AU_CO"))
-plotly::save_image(fig, "export/keywords_author_country_sankey.svg")
+plotly::save_image(fig, "export/keywords_author_country_sankey.svg", scale = 2)
 
 fig <- threeFieldsPlot(dendroprovenance_combined, fields = c("PU", "OA", "AU_CO"))
 plotly::save_image(fig, "export/publishers_openaccess_country_sankey.svg")
