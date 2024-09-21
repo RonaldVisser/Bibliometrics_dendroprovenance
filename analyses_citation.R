@@ -19,14 +19,30 @@ dendroprovenance_combined <- mergeDbSources(dendroprovenance_combined_wos, dendr
 # remove duplicates based on SR 
 dendroprovenance_combined <- dendroprovenance_combined[!duplicated(dendroprovenance_combined$SR, fromLast = TRUE),]
 
-# exporting for easy loading
-saveRDS(dendroprovenance_combined, "data/dendroprovance_lit.rds")
-dendroprovenance_combined <- readRDS("data/dendroprovance_lit.rds")
-
 # correct spelling of Domínguez-Delmás and Ważny
 dendroprovenance_combined$AU <- str_replace(dendroprovenance_combined$AU, "Dominguez-Delmas M.", "Domínguez-Delmás M.")
 dendroprovenance_combined$AU <- str_replace(dendroprovenance_combined$AU, "Dominguez-Delmás M.", "Domínguez-Delmás M.")
 dendroprovenance_combined$AU <- str_replace(dendroprovenance_combined$AU, "Wazny T.", "Ważny T.")
+
+# removing duplicate DOI's
+duplicate_dois <- dendroprovenance_combined %>% 
+  select(DI,AU,AB) %>% 
+  filter(DI != "") %>% 
+  group_by(DI) %>% 
+  summarise(count_doi = n()) %>% 
+  filter(count_doi > 1) 
+unique_rows <- dendroprovenance_combined %>% 
+  filter(DI %in% setdiff(dendroprovenance_combined$DI, duplicate_dois$DI))
+unduplicate_rows <- dendroprovenance_combined %>% 
+  filter(DI %in% duplicate_dois$DI) %>% 
+  arrange(DI) %>% filter(row_number() %% 2 == 0)
+#no_doi <- dendroprovenance_combined %>%  filter(DI=="")
+# recombine all data
+dendroprovenance_combined <- rbind(unique_rows, unduplicate_rows)
+
+# exporting for easy loading
+saveRDS(dendroprovenance_combined, "data/dendroprovance_lit.rds")
+dendroprovenance_combined <- readRDS("data/dendroprovance_lit.rds")
 
 # combined keywords dendroprovenance or dendroprovenancing or dendro-provenance or (dendrochronology and provenance) or (wood and provenance and (archaeology or heritage or painting or building)) or (tree-ring and provenance and (archaeology or heritage or painting or building)) 
 dendroprovenance_combined_scopus_results <- biblioAnalysis(dendroprovenance_combined_scopus)
@@ -77,7 +93,7 @@ melt(dendroprovenance_combined$PY) %>%
   summarise(n = n()) %>% 
   ggplot(aes(x=value,y=n)) + geom_col() + 
     xlab("Publication year") +  ylab("Number of publications") +
-    geom_smooth(level = 0.68) + coord_cartesian(ylim = c(0,21)) + scale_y_continuous(expand = c(0, 0))
+    geom_smooth(level = 0.68) + coord_cartesian(ylim = c(0,16)) + scale_y_continuous(expand = c(0, 0))
 ggsave("export/publication_year_trend.png", width = 8, height = 6)
 
 dendroprovenance_combined %>%
@@ -93,14 +109,14 @@ dendroprovenance_combined %>%
 ggsave("export/publication_year_openaccess.png", width = 8, height = 6)
 
 ggplot(melt(dendroprovenance_combined_results$CountryCollaboration), 
-       aes(y=str_to_title(Country), x = value, fill=variable)) + geom_bar(stat = "identity") +
+       aes(y=reorder(str_to_title(Country),value), x = value, fill=variable)) + geom_bar(stat = "identity") +
   scale_fill_discrete(name = "Publication type", labels = c("Single Country Paper", "Multi Country Paper")) +
   labs(x="Number of publications", y="Country")
 ggsave("export/publication_country.png", width = 10, height = 8)
 
 melt(dendroprovenance_combined_results$Authors) %>%
   filter(value>=10) %>% 
-  ggplot(aes(y=str_to_title(AU), x = value)) + geom_bar(stat = "identity") + 
+  ggplot(aes(y=reorder(str_to_title(AU), value), x = value)) + geom_bar(stat = "identity") + 
   ylab("Author") + xlab("Number of papers") + scale_x_continuous(breaks = c(5,10))
 ggsave("export/author_papers_10.png", width = 5, height = 4)
 
