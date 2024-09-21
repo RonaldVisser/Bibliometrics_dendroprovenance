@@ -2,7 +2,7 @@
 # Bibliometric analyses of publications related to dendroprovenance
 
 This repository consists of a bibliometric analyses of literature
-related to dendroprovenance. This will be published as:
+related to dendroprovenance. This will be published as chapter 2 in my PhD thesis.
 
 For the analyses the R-package Bibliometrix (Aria and Cuccurullo 2017)
 was used in R in combination with reshape (Wickham 2007), ggplot
