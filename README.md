@@ -1,6 +1,8 @@
 
 # Bibliometric analyses of publications related to dendroprovenance
 
+[![DOI](https://zenodo.org/badge/725553733.svg)](https://zenodo.org/doi/10.5281/zenodo.13822484)
+
 This repository consists of a bibliometric analyses of literature
 related to dendroprovenance. This will be published as chapter 2 in my PhD thesis.
 
