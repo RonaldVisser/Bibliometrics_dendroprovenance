@@ -1,5 +1,5 @@
 
-# Bibliometrics_dendroprovenance
+# Bibliometric analyses of publications related to dendroprovenance
 
 This repository consists of a bibliometric analyses of literature
 related to dendroprovenance. This will be published as:
