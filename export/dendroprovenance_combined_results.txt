@@ -4,19 +4,19 @@ MAIN INFORMATION ABOUT DATA
 
  Timespan                              1989 : 2024 
  Sources (Journals, Books, etc)        46 
- Documents                             121 
+ Documents                             120 
  Annual Growth Rate %                  3.19 
- Document Average Age                  7.23 
- Average citations per doc             12.91 
- Average citations per year per doc    1.359 
- References                            5323 
+ Document Average Age                  7.22 
+ Average citations per doc             13.01 
+ Average citations per year per doc    1.37 
+ References                            5241 
  
 DOCUMENT TYPES                     
  article                         90 
  article; early access           16 
  article; proceedings paper      2 
  book                            3 
- book chapter                    3 
+ book chapter                    2 
  editorial material              1 
  erratum                         1 
  review                          4 
@@ -27,15 +27,15 @@ DOCUMENT CONTENTS
  Author's Keywords (DE)                395 
  
 AUTHORS
- Authors                               357 
- Author Appearances                    514 
- Authors of single-authored docs       20 
+ Authors                               356 
+ Author Appearances                    513 
+ Authors of single-authored docs       19 
  
 AUTHORS COLLABORATION
- Single-authored docs                  25 
- Documents per Author                  0.339 
- Co-Authors per Doc                    4.25 
- International co-authorships %        32.23 
+ Single-authored docs                  24 
+ Documents per Author                  0.337 
+ Co-Authors per Doc                    4.28 
+ International co-authorships %        32.5 
  
 
 Annual Scientific Production
@@ -56,7 +56,7 @@ Annual Scientific Production
     2013        2
     2014       10
     2015        4
-    2016        9
+    2016        8
     2017        6
     2018        7
     2019       10

@@ -40,6 +40,9 @@ unduplicate_rows <- dendroprovenance_combined %>%
 # recombine all data
 dendroprovenance_combined <- rbind(unique_rows, unduplicate_rows)
 
+# remove publication by Premo, because this reference is incorrect. The abstract points to https://www.taylorfrancis.com/chapters/edit/10.4324/9781315431932-12/reproducible-data-analysis-open-source-paradigm-archaeology-benjamin-ducke, rather then to https://www.taylorfrancis.com/chapters/edit/10.4324/9781315431932-6/multilevel-selection-evolution-food-sharing-fragmented-environments-spatially-explicit-model-implications-early-stone-age-behavior-premo?context=ubx&refId=0dcb96e1-83fb-4803-b07e-d0e4ed8d32b0 in the same book
+dendroprovenance_combined <- dendroprovenance_combined %>% filter(AU != 'PREMO L')
+
 # exporting for easy loading
 saveRDS(dendroprovenance_combined, "data/dendroprovance_lit.rds")
 dendroprovenance_combined <- readRDS("data/dendroprovance_lit.rds")
@@ -277,3 +280,4 @@ threeFieldsPlot(threefield, fields = c("AU_CO", "PY", "OA"))
 dendroprovenance_combined %>% 
   ggplot(aes(x=PY, y=TC)) + geom_point()
 
+saveSession("export/networks.cys")
